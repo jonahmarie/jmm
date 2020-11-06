@@ -5,7 +5,7 @@ body{
   font-size: 20px;
 }
 h1{
-  font-size: 72px;
+  font-size: 5.625rem;
   margin-top: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;;
   background: linear-gradient(to bottom, #6666ff 0%, #ff99cc 100%);
